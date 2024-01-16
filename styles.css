@@ -1,0 +1,20 @@
+.container{
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+form{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+
+button{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+label{
+    font-weight: bold;
+}
